@@ -1,4 +1,4 @@
-from src.music.representation import Sound, SoundSequence, Cacophony
+from music.representation import Sound, SoundSequence, Cacophony
 
 
 def test_sound():
